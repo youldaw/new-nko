@@ -838,8 +838,7 @@ header.press-about-us .dyslexia_Knowledge_content {
   width: 100%;
 }
 
-.main-sec .knowledge_card_content .knowledge_card .knowledge_card_items h2 {
-  font-style: normal;
+.main-sec .knowledge_card_content .knowledge_card .knowledge_card_items a {
   font-weight: bold;
   font-size: 18px;
   line-height: 24px;
@@ -848,8 +847,6 @@ header.press-about-us .dyslexia_Knowledge_content {
 }
 
 .main-sec .knowledge_card_content .knowledge_card .knowledge_card_items p {
-  font-style: normal;
-  font-weight: normal;
   font-size: 15px;
   line-height: 22px;
   color: #575A5A;
